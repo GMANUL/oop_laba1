@@ -3,5 +3,6 @@
 
 int main() {
     int a = sum(3, 5);
-    std::cout << a;
+    std::cout << a << '\n';
+    std::cout << "Hello";
 }
