@@ -7,3 +7,6 @@ double sum(double first, double second){
 int cmp(int first, int second){
     return first == second;
 }
+int multi(int first, int second){
+    return first * second;
+}
